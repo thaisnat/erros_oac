@@ -1,0 +1,13 @@
+01 - Paridade (PAR):
+Exemplo
+  sem erro: 0100111
+  com erro: 0100101
+
+02 - Hamming:
+Exemplo
+  sem erro: 0011001
+  com erro: 0001001
+
+03 - CRC:
+Exemplo
+  sem erro: 10111011
